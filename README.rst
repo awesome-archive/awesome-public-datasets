@@ -39,7 +39,7 @@ Agriculture
 Biology
 -------
         
-* |OK_ICON| `1000 Genomes <http://www.1000genomes.org/data>`_
+* |FIXME_ICON| `1000 Genomes <http://www.1000genomes.org/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/1000-Genomes.yml>`_]
         
 * |OK_ICON| `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
         
@@ -63,7 +63,7 @@ Biology
         
 * |OK_ICON| `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
         
-* |OK_ICON| `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
+* |OK_ICON| `Gene Ontology (GO) - GO annotation files <http://geneontology.org/docs/download-go-annotations/>`_
         
 * |OK_ICON| `Global Biotic Interactions (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
         
@@ -77,7 +77,7 @@ Biology
         
 * |OK_ICON| `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
         
-* |OK_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
+* |FIXME_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Journal-of-Cell-Biology-DataViewer.yml>`_]
         
 * |OK_ICON| `KEGG - KEGG is a database resource for understanding high-level functions [...] <http://www.genome.jp/kegg/>`_
         
@@ -123,7 +123,7 @@ Biology
         
 * |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
         
-* |OK_ICON| `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+* |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
     
@@ -142,7 +142,9 @@ Climate+Weather
         
 * |OK_ICON| `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/data/>`_
         
-* |FIXME_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
+* |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI [...] <https://data.knmi.nl/datasets>`_
+        
+* |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_
         
 * |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
         
@@ -171,7 +173,7 @@ ComplexNetworks
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
         
-* |FIXME_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DBLP-Citation-dataset.yml>`_]
+* |OK_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
         
 * |OK_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
         
@@ -193,7 +195,7 @@ ComplexNetworks
         
 * |OK_ICON| `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
         
-* |OK_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
+* |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
 * |FIXME_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`_]
         
@@ -225,6 +227,8 @@ ComputerNetworks
 * |OK_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
         
 * |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_
+        
+* |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
         
 * |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
         
@@ -272,6 +276,8 @@ DataChallenges
 EarthScience
 ------------
         
+* |OK_ICON| `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
+        
 * |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
         
 * |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
@@ -287,6 +293,8 @@ EarthScience
 * |OK_ICON| `Alabama Real-Time Coastal Observing System <http://mymobilebay.com>`_
         
 * |OK_ICON| `National Estuarine Research Reserves System-Wide Monitoring Program - [...] <http://nerrsdata.org>`_
+        
+* |OK_ICON| `Oil and Gas Authority Open Data - The dataset covers 12,500 offshore [...] <https://data-ogauthority.opendata.arcgis.com/>`_
         
 * |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
         
@@ -305,7 +313,7 @@ Economics
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_
         
-* |OK_ICON| `International Economics Database <http://widukind.cepremap.org/>`_
+* |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of [...] <https://db.nomics.world/>`_
         
 * |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
         
@@ -336,6 +344,8 @@ Education
         
 * |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
         
+* |OK_ICON| `New York State Education Department Data - The New York State Education [...] <https://data.nysed.gov/downloads.php>`_
+        
 * |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_
     
 Energy
@@ -365,7 +375,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_
         
-* |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <http://www.doc.ic.ac.uk/~dk3810/data/>`_
+* |FIXME_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <http://www.doc.ic.ac.uk/~dk3810/data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UK-DALE.yml>`_]
         
 * |OK_ICON| `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
         
@@ -388,7 +398,7 @@ Finance
         
 * |OK_ICON| `OANDA <http://www.oanda.com/>`_
         
-* |OK_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
+* |FIXME_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OSU-Financial-data.yml>`_]
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_
         
@@ -437,6 +447,8 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
+* |OK_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_
+        
 * |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
@@ -470,6 +482,8 @@ Government
         
 * |OK_ICON| `Baton Rouge, LA, US <https://data.brla.gov/>`_
         
+* |OK_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_
+        
 * |OK_ICON| `Belgium <http://data.gov.be/>`_
         
 * |OK_ICON| `Brazil <http://dados.gov.br/dataset>`_
@@ -486,7 +500,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |FIXME_ICON| `China <http://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
+* |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -538,6 +552,8 @@ Government
         
 * |OK_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_
         
+* |OK_ICON| `Israel's Open Data Portal <https://data.gov.il>`_
+        
 * |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
         
 * |OK_ICON| `Japan <http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do>`_
@@ -588,7 +604,7 @@ Government
         
 * |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
         
-* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
+* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_
         
 * |OK_ICON| `Oregon <https://data.oregon.gov/>`_
         
@@ -618,7 +634,7 @@ Government
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_
         
-* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...] <http://cinow.info/>`_
+* |FIXME_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...] <http://cinow.info/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_
         
@@ -644,19 +660,19 @@ Government
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_
         
-* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/index_en.html#/>`_
+* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
 * |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
-* |OK_ICON| `U.K. Government Data <http://data.gov.uk/data>`_
+* |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
-* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_
+* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
         
 * |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
         
@@ -664,17 +680,17 @@ Government
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
         
-* |FIXME_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Agencies.yml>`_]
+* |OK_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
         
-* |FIXME_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Data-Catalog.yml>`_]
+* |OK_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
 * |OK_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
         
-* |FIXME_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Open-Government.yml>`_]
+* |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
         
-* |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_
+* |FIXME_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-2011-Census-Open-Atlas-Project.yml>`_]
         
 * |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
         
@@ -744,11 +760,15 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
+* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_
+        
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
 * |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English [...] <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
         
-* |OK_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_
+* |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image [...] <https://www.gwern.net/Danbooru>`_
+        
+* |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
@@ -766,9 +786,13 @@ ImageProcessing
         
 * |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_
         
+* |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - [...] <http://lila.science>`_
+        
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
+        
+* |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 [...] <https://storage.googleapis.com/openimages/web/download.html>`_
         
 * |OK_ICON| `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
         
@@ -788,6 +812,8 @@ ImageProcessing
     
 MachineLearning
 ---------------
+        
+* |OK_ICON| `All-Age-Faces Dataset - Contains 13'322 Asian face images distributed [...] <https://github.com/JingchunCheng/All-Age-Faces-Dataset>`_
         
 * |OK_ICON| `Context-aware data sets from five domains <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
         
@@ -817,7 +843,7 @@ MachineLearning
         
 * |OK_ICON| `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
         
-* |OK_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_
+* |FIXME_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`_]
         
 * |OK_ICON| `Restaurants Health Score Data in San Francisco <https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0>`_
         
@@ -867,7 +893,7 @@ NaturalLanguage
         
 * |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
         
-* |OK_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_
+* |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
         
 * |OK_ICON| `German Political Speeches Corpus - Collection of political speeches from [...] <purl.org/corpus/german-speeches>`_
         
@@ -883,7 +909,7 @@ NaturalLanguage
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a [...] <https://keithito.com/LJ-Speech-Dataset>`_
         
-* |OK_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_
+* |FIXME_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/M-AILABS-Speech.yml>`_]
         
 * |OK_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
         
@@ -930,9 +956,9 @@ Neuroscience
         
 * |OK_ICON| `Allen Institute Datasets <http://www.brain-map.org/>`_
         
-* |OK_ICON| `Brain Catalogue <http://braincatalogue.org/>`_
+* |FIXME_ICON| `Brain Catalogue <http://braincatalogue.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brain-Catalogue.yml>`_]
         
-* |OK_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_
+* |FIXME_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brainomics.yml>`_]
         
 * |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/CodeNeuro-Datasets.yml>`_]
         
@@ -967,7 +993,7 @@ Physics
         
 * |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_
         
-* |OK_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_
+* |FIXME_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
 * |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO [...] <https://losc.ligo.org>`_
         
@@ -976,6 +1002,93 @@ Physics
 * |OK_ICON| `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
         
 * |OK_ICON| `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_
+    
+ProstateCancer
+--------------
+        
+* |OK_ICON| `EOPC-DE-Early-Onset-Prostate-Cancer-Germany - Early Onset Prostate Cancer [...] <https://dcc.icgc.org/projects/EOPC-DE>`_
+        
+* |OK_ICON| `GENIE - Data from the Genomics Evidence Neoplasia Information Exchange [...] <https://www.synapse.org/genie>`_
+        
+* |OK_ICON| `Genomic-Hallmarks-Prostate-Adenocarcinoma-CPC-GENE - Comprehensive [...] <http://www.cbioportal.org/study?id=prad_cpcg_2017>`_
+        
+* |OK_ICON| `MSK-IMPACT-Clinical-Sequencing-Cohort-MSKCC-Prostate-Cancer - Targeted [...] <http://www.cbioportal.org/study?id=prad_mskcc_2017>`_
+        
+* |OK_ICON| `Metastatic-Prostate-Adenocarcinoma-MCTP - Comprehensive profiling of 61 [...] <http://www.cbioportal.org/study?id=prad_mich>`_
+        
+* |OK_ICON| `Metastatic-Prostate-Cancer-SU2CPCF-Dream-Team - Comprehensive analysis of [...] <http://www.cbioportal.org/study?id=prad_su2c_2015>`_
+        
+* |OK_ICON| `NPCR-2001-2015 - Database from CDC's National Program of Cancer [...] <https://www.cdc.gov/cancer/uscs/public-use>`_
+        
+* |OK_ICON| `NPCR-2005-2015 - Database from CDC's National Program of Cancer [...] <https://www.cdc.gov/cancer/uscs/public-use>`_
+        
+* |OK_ICON| `NaF-Prostate - NaF Prostate is a collection of F-18 NaF positron emission [...] <https://wiki.cancerimagingarchive.net/display/Public/NaF+Prostate>`_
+        
+* |OK_ICON| `Neuroendocrine-Prostate-Cancer - Whole exome and RNA Seq data of [...] <http://www.cbioportal.org/study?id=nepc_wcm_2016>`_
+        
+* |OK_ICON| `PLCO-Prostate-Diagnostic-Procedures - The Prostate Diagnostic Procedures [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Medical-Complications - The Prostate Medical Complications [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Screening-Abnormalities - The Prostate Screening [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Screening - The Prostate Screening dataset (177,315 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Treatments - The Prostate Treatments dataset (13,409 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate - The Prostate dataset is a comprehensive dataset that [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PRAD-CA-Prostate-Adenocarcinoma-Canada - Prostate Adenocarcinoma - [...] <https://dcc.icgc.org/projects/PRAD-CA>`_
+        
+* |OK_ICON| `PRAD-FR-Prostate-Adenocarcinoma-France - Prostate Adenocarcinoma - [...] <https://dcc.icgc.org/projects/PRAD-FR>`_
+        
+* |OK_ICON| `PRAD-UK-Prostate-Adenocarcinoma-United-Kingdom - Prostate Adenocarcinoma [...] <https://dcc.icgc.org/projects/PRAD-UK>`_
+        
+* |OK_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All [...] <https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges>`_
+        
+* |OK_ICON| `Prostate-3T - The Prostate-3T project provided imaging data to TCIA as [...] <https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-3T>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Broad-Cornell-2012 - Comprehensive profiling of [...] <http://www.cbioportal.org/study?id=prad_broad>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Broad-Cornell-2013 - Comprehensive profiling of [...] <http://www.cbioportal.org/study?id=prad_broad_2013>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-CNA-study-MSKCC - Copy-number profiling of 103 [...] <http://www.cbioportal.org/study?id=prad_mskcc_2014>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Fred-Hutchinson-CRC - Comprehensive profiling of [...] <http://www.cbioportal.org/study?id=prad_fhcrc>`_
+        
+* |OK_ICON| `Prostate Adenocarcinoma (MSKCC/DFCI) - Whole Exome Sequencing of 1013 [...] <http://www.cbioportal.org/study?id=prad_p1000>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-MSKCC - MSKCC Prostate Oncogenome Project. 181 [...] <http://www.cbioportal.org/study?id=prad_mskcc>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Organoids-MSKCC - Exome profiling of prostate [...] <http://www.cbioportal.org/study?id=prad_mskcc_cheny1_organoids_2014>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Sun-Lab - Whole-genome and Transcriptome [...] <http://www.cbioportal.org/study?id=prad_eururol_2017>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-TCGA-PanCancer-Atlas - Comprehensive TCGA [...] <http://www.cbioportal.org/study?id=prad_tcga_pan_can_atlas_2018>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-TCGA - Integrated profiling of 333 primary [...] <http://www.cbioportal.org/study?id=prad_tcga_pub>`_
+        
+* |OK_ICON| `Prostate-Diagnosis - PCa T1- and T2-weighted magnetic resonance images [...] <https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-DIAGNOSIS>`_
+        
+* |OK_ICON| `Prostate-Fused-MRI-Pathology - The Prostate Fused-MRI-Pathology [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology>`_
+        
+* |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_
+        
+* |OK_ICON| `Prostate-R - The popular statistical package R contains a prostate cancer [...] <https://cran.r-project.org/web/packages/ElemStatLearn/ElemStatLearn.pdf>`_
+        
+* |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_
+        
+* |OK_ICON| `QIN-PROSTATE - The QIN PROSTATE collection of the Quantitative Imaging [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN+PROSTATE>`_
+        
+* |OK_ICON| `SEER-YR1973_2015.SEER9 - The SEER November 2017 Research Data files from [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `SEER-YR1992_2015.SJ_LA_RG_AK - The SEER November 2017 Research Data files [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The SEER November 2017 Research Data [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The July - December 2005 diagnoses for [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `TCGA-PRAD-US - TCGA Prostate Adenocarcinoma (499 samples). <http://www.cbioportal.org/study?id=prad_tcga>`_
     
 Psychology+Cognition
 --------------------
@@ -991,11 +1104,11 @@ PublicDomains
         
 * |OK_ICON| `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
         
-* |FIXME_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-JASA-data-archive.yml>`_]
+* |OK_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
         
-* |FIXME_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-StatLab-collections.yml>`_]
+* |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
@@ -1019,7 +1132,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1031,7 +1144,7 @@ PublicDomains
         
 * |OK_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_
         
-* |FIXME_ICON| `UCLA SOCR data collection <http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/UCLA-SOCR-data-collection.yml>`_]
+* |OK_ICON| `UCLA SOCR data collection <http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data>`_
         
 * |OK_ICON| `UFO Reports <http://www.nuforc.org/webreports.html>`_
         
@@ -1044,7 +1157,7 @@ SearchEngines
         
 * |OK_ICON| `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
         
-* |OK_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
+* |FIXME_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/DataMarket-Qlik.yml>`_]
         
 * |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
         
@@ -1083,15 +1196,15 @@ SocialNetworks
         
 * |OK_ICON| `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
         
-* |OK_ICON| `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
+* |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_
         
-* |OK_ICON| `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
+* |FIXME_ICON| `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
         
 * |OK_ICON| `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
         
-* |FIXME_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Mobile-Social-Networks-from-UMASS.yml>`_]
+* |OK_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
@@ -1113,6 +1226,8 @@ SocialNetworks
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
         
+* |OK_ICON| `United States Congress Twitter Data - Daily datasets with tweets of 1100+ [...] <https://github.com/alexlitel/congresstweets>`_
+        
 * |OK_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
         
 * |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
@@ -1124,7 +1239,7 @@ SocialSciences
         
 * |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
-* |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
+* |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
 * |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_
         
@@ -1136,7 +1251,7 @@ SocialSciences
         
 * |OK_ICON| `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
         
-* |OK_ICON| `Fragile States Index <http://fundforpeace.org/fsi/>`_
+* |FIXME_ICON| `Fragile States Index <http://fundforpeace.org/fsi/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Fragile-States-Index.yml>`_]
         
 * |OK_ICON| `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
         
@@ -1166,6 +1281,8 @@ SocialSciences
         
 * |OK_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
         
+* |OK_ICON| `Microsoft Academic Knowledge Graph - The Microsoft Academic Knowledge [...] <http://ma-graph.org>`_
+        
 * |OK_ICON| `Minnesota Population Center <https://www.ipums.org/>`_
         
 * |OK_ICON| `Notre Dame Global Adaptation Index (ND-GAIN) <https://gain.nd.edu/our-work/country-index/download-data/>`_
@@ -1176,11 +1293,11 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
         
-* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_
         
 * |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
         
-* |OK_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
+* |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
 * |OK_ICON| `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
         
@@ -1188,9 +1305,9 @@ SocialSciences
         
 * |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
         
-* |OK_ICON| `Titanic Survival Data Set <https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets>`_
+* |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_
         
-* |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
+* |FIXME_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UCBs-Archive-of-Social-Science-Data-D-Lab.yml>`_]
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
@@ -1217,10 +1334,18 @@ Software
         
 * |OK_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top- [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_
         
+* |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_
+        
+* |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_
+        
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_
+        
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_
     
 Sports
 ------
+        
+* |OK_ICON| `American Ninja Warrior Obstacles - Contains every obstacle in the history [...] <https://data.world/ninja/anw-obstacle-history>`_
         
 * |OK_ICON| `Betfair Historical Exchange Data <http://data.betfair.com/>`_
         
@@ -1234,6 +1359,8 @@ Sports
         
 * |OK_ICON| `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
         
+* |OK_ICON| `Pro Kabadi season 1 to 7 - Pro Kabadi League is a professional-level [...] <https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats>`_
+        
 * |OK_ICON| `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
         
 * |OK_ICON| `Tennis database of rankings, results, and stats for ATP <https://github.com/JeffSackmann/tennis_atp>`_
@@ -1243,13 +1370,15 @@ Sports
 TimeSeries
 ----------
         
+* |OK_ICON| `3W dataset - To the best of its authors' knowledge, this is the first [...] <https://github.com/ricardovvargas/3w_dataset>`_
+        
 * |OK_ICON| `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
         
 * |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
         
 * |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
         
-* |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
+* |FIXME_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
         
 * |OK_ICON| `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
     
@@ -1262,15 +1391,17 @@ Transportation
         
 * |OK_ICON| `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
         
+* |OK_ICON| `Dutch Traffic Information <https://www.ndw.nu/en/>`_
+        
 * |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
         
 * |OK_ICON| `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
         
-* |OK_ICON| `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
+* |FIXME_ICON| `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Hubway-Million-Rides-in-MA.yml>`_]
         
 * |OK_ICON| `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_
         
-* |OK_ICON| `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
+* |OK_ICON| `NYC Taxi Trip Data 2009- <https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page>`_
         
 * |OK_ICON| `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
         
@@ -1280,7 +1411,7 @@ Transportation
         
 * |OK_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
         
-* |FIXME_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml>`_]
+* |OK_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
         
 * |OK_ICON| `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
         
@@ -1288,17 +1419,24 @@ Transportation
         
 * |OK_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
         
+* |OK_ICON| `Renfe (Spanish National Railway Network) dataset <data.renfe.com>`_
+        
 * |OK_ICON| `Toronto Bike Share Stations (JSON and GBFS files) <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29>`_
         
 * |OK_ICON| `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-open-data>`_
         
 * |OK_ICON| `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
         
-* |OK_ICON| `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
+* |OK_ICON| `U.S. Bureau of Transportation Statistics (BTS) <https://www.bts.gov/browse-statistical-products-and-data>`_
         
 * |OK_ICON| `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
         
 * |OK_ICON| `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+    
+eSports
+-------
+        
+* |OK_ICON| `OpenDota data dump <https://blog.opendota.com/2017/03/24/datadump2/>`_
 
 
 Complementary Collections
